@@ -1,0 +1,173 @@
+export const CardData = [
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: true,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+  ];
+
+  export const ProductCardData = [
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg1.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg2.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg3.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+    {
+      img: "/images/cardimg4.png",
+      title: "FACIAL CREAM",
+      price: "$700",
+      newarrival: false,
+    },
+  ];
